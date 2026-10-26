@@ -25,44 +25,50 @@ Power Supply - Appropriate power supply for PLC and peripherals.
 Logic gates are the fundamental building blocks of digital circuits, and they process binary inputs to produce a binary output. In PLC programming, these logic gates can be implemented using ladder logic, which is a graphical programming language resembling electrical relay logic.
 
 # Basic Logic Gates:
+
 ## AND Gate:
-
-<img width="327" height="250" alt="image" src="https://github.com/user-attachments/assets/0ff4023b-ca2a-4b80-9fd9-838db40e76ff" />
-
 Function: Outputs HIGH only when all inputs are HIGH.
 Ladder Logic: Represented by two or more normally open contacts in series.
+
 ## OR Gate:
-
-<img width="324" height="254" alt="image" src="https://github.com/user-attachments/assets/fd306b8f-c25b-4a78-a640-ec9c952ea425" />
-
 Function: Outputs HIGH when at least one input is HIGH.
 Ladder Logic: Represented by two or more normally open contacts in parallel.
+
 ## NOT Gate:
-
-<img width="214" height="159" alt="image" src="https://github.com/user-attachments/assets/75941921-97d4-4a16-929c-682f25e993ec" />
-
 Function: Outputs the inverse of the input signal.
 Ladder Logic: Represented by a normally closed contact.
+
 ## NAND Gate:
-
-<img width="333" height="250" alt="image" src="https://github.com/user-attachments/assets/204ab996-7c11-4799-ab30-e5546e1061c0" />
-
 Function: Outputs LOW only when all inputs are HIGH.
 Ladder Logic: An AND gate followed by a NOT gate.
+
 ## NOR Gate:
-
-<img width="330" height="249" alt="image" src="https://github.com/user-attachments/assets/84ad6f45-9bb0-4be2-80dc-cb327d73cddb" />
-
 Function: Outputs LOW when at least one input is HIGH.
 Ladder Logic: An OR gate followed by a NOT gate.
+
 ## XOR Gate:
-
-<img width="326" height="248" alt="image" src="https://github.com/user-attachments/assets/b025d37f-171c-4107-9268-16d7b79537c9" />
-
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
+
 # Truth Tables:
- 
+## AND GATE:
+<img width="327" height="250" alt="image" src="https://github.com/user-attachments/assets/0ff4023b-ca2a-4b80-9fd9-838db40e76ff" />
+
+## OR GATE:
+<img width="324" height="254" alt="image" src="https://github.com/user-attachments/assets/fd306b8f-c25b-4a78-a640-ec9c952ea425" />
+
+## NOT GATE:
+<img width="214" height="159" alt="image" src="https://github.com/user-attachments/assets/75941921-97d4-4a16-929c-682f25e993ec" />
+
+## NAND GATE:
+<img width="333" height="250" alt="image" src="https://github.com/user-attachments/assets/204ab996-7c11-4799-ab30-e5546e1061c0" />
+
+## NOR GATE:
+<img width="330" height="249" alt="image" src="https://github.com/user-attachments/assets/84ad6f45-9bb0-4be2-80dc-cb327d73cddb" />
+
+## XOR GATE:
+<img width="326" height="248" alt="image" src="https://github.com/user-attachments/assets/b025d37f-171c-4107-9268-16d7b79537c9" />
+
 # Procedure:
 Setup the PLC Programming Environment:
 
