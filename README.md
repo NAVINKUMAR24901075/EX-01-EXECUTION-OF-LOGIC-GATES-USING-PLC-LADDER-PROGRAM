@@ -1,11 +1,11 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT :
- # YEAR :
- # DATE :
+ # NAME : NAVINKUMAR.S
+ # REGISTER NUMBER : 212224110041
+ # DEPARTMENT : CSE-IOT
+ # YEAR : III
+ # DATE : 26-10-2-26
 
  
 # Aim:
@@ -25,27 +25,39 @@ Power Supply - Appropriate power supply for PLC and peripherals.
 Logic gates are the fundamental building blocks of digital circuits, and they process binary inputs to produce a binary output. In PLC programming, these logic gates can be implemented using ladder logic, which is a graphical programming language resembling electrical relay logic.
 
 # Basic Logic Gates:
-AND Gate:
+## AND Gate:
+
+<img width="327" height="250" alt="image" src="https://github.com/user-attachments/assets/0ff4023b-ca2a-4b80-9fd9-838db40e76ff" />
 
 Function: Outputs HIGH only when all inputs are HIGH.
 Ladder Logic: Represented by two or more normally open contacts in series.
-OR Gate:
+## OR Gate:
+
+<img width="324" height="254" alt="image" src="https://github.com/user-attachments/assets/fd306b8f-c25b-4a78-a640-ec9c952ea425" />
 
 Function: Outputs HIGH when at least one input is HIGH.
 Ladder Logic: Represented by two or more normally open contacts in parallel.
-NOT Gate:
+## NOT Gate:
+
+<img width="214" height="159" alt="image" src="https://github.com/user-attachments/assets/75941921-97d4-4a16-929c-682f25e993ec" />
 
 Function: Outputs the inverse of the input signal.
 Ladder Logic: Represented by a normally closed contact.
-NAND Gate:
+## NAND Gate:
+
+<img width="333" height="250" alt="image" src="https://github.com/user-attachments/assets/204ab996-7c11-4799-ab30-e5546e1061c0" />
 
 Function: Outputs LOW only when all inputs are HIGH.
 Ladder Logic: An AND gate followed by a NOT gate.
-NOR Gate:
+## NOR Gate:
+
+<img width="330" height="249" alt="image" src="https://github.com/user-attachments/assets/84ad6f45-9bb0-4be2-80dc-cb327d73cddb" />
 
 Function: Outputs LOW when at least one input is HIGH.
 Ladder Logic: An OR gate followed by a NOT gate.
-XOR Gate:
+## XOR Gate:
+
+<img width="326" height="248" alt="image" src="https://github.com/user-attachments/assets/b025d37f-171c-4107-9268-16d7b79537c9" />
 
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
@@ -80,6 +92,34 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
+
+## AND GATE:
+
+<img width="717" height="136" alt="image" src="https://github.com/user-attachments/assets/bd71aa72-bc61-47ce-b83c-4b7dc7c04643" />
+
+## OR GATE:
+
+<img width="668" height="212" alt="image" src="https://github.com/user-attachments/assets/3f5f1141-ee83-47d1-960e-41959b4c07f8" />
+
+## NOT GATE:
+
+<img width="718" height="136" alt="image" src="https://github.com/user-attachments/assets/ec289bda-9a31-4522-84e7-985812171699" />
+
+## NAND GATE:
+
+<img width="710" height="152" alt="image" src="https://github.com/user-attachments/assets/3d8e671a-a299-4257-903a-d40844f9715f" />
+
+## NOR GATE:
+
+<img width="705" height="216" alt="image" src="https://github.com/user-attachments/assets/65b280a3-bfe0-40ca-a9d8-d26bd37f69a0" />
+
+## XOR GATE:
+
+<img width="722" height="246" alt="image" src="https://github.com/user-attachments/assets/6929a959-17d0-46d3-b9b3-c1cdd6bae933" />
+
+## MONITOR TABLE:
+
+<img width="1917" height="733" alt="image" src="https://github.com/user-attachments/assets/7678eccd-0090-4be1-a8a2-f8bdc6b5fab9" />
 
 
 # Results:
