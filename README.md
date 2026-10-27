@@ -103,68 +103,35 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 ## AND GATE:
 
-<img width="717" height="136" alt="image" src="https://github.com/user-attachments/assets/bd71aa72-bc61-47ce-b83c-4b7dc7c04643" />
-
-<img width="647" height="146" alt="image" src="https://github.com/user-attachments/assets/d942371c-bd0a-4714-b026-7e766a00b431" />
-
-<img width="682" height="140" alt="image" src="https://github.com/user-attachments/assets/60aac668-a229-4d6f-8bc8-356817b13e21" />
-
-<img width="727" height="157" alt="image" src="https://github.com/user-attachments/assets/945031f4-4ea7-4b92-8f6b-b3994fc0be8f" />
+<img width="700" height="125" alt="image" src="https://github.com/user-attachments/assets/85e531df-51ff-40a4-9dbf-cd9cf6bf0ee1" />
 
 
 ## OR GATE:
 
-<img width="668" height="212" alt="image" src="https://github.com/user-attachments/assets/3f5f1141-ee83-47d1-960e-41959b4c07f8" />
-
-<img width="667" height="215" alt="image" src="https://github.com/user-attachments/assets/6c941137-2653-4cc2-a034-cf8567b6366f" />
-
-<img width="662" height="215" alt="image" src="https://github.com/user-attachments/assets/5c6c0315-7063-41ac-a5dc-f5b800de9e04" />
-
-<img width="681" height="210" alt="image" src="https://github.com/user-attachments/assets/2fbfae06-4602-4719-b056-c7b94679271e" />
-
+<img width="701" height="209" alt="image" src="https://github.com/user-attachments/assets/04e6ff0a-1b51-4e41-bb57-ff8a53d216b5" />
 
 ## NOT GATE:
 
-<img width="718" height="136" alt="image" src="https://github.com/user-attachments/assets/ec289bda-9a31-4522-84e7-985812171699" />
-
-<img width="677" height="147" alt="image" src="https://github.com/user-attachments/assets/0b3f8e34-9c9d-4a0a-9ce8-c90c1d7e3922" />
-
-<img width="748" height="160" alt="image" src="https://github.com/user-attachments/assets/0ef07798-46a7-4157-8a56-e2a1227f2b66" />
-
-<img width="672" height="142" alt="image" src="https://github.com/user-attachments/assets/756a775f-1381-4c6c-806f-cb4f200a3e3b" />
+<img width="645" height="141" alt="image" src="https://github.com/user-attachments/assets/df3ccf30-4fe2-404a-9cf2-eb0ff966ccc3" />
 
 
 ## NAND GATE:
 
-<img width="710" height="152" alt="image" src="https://github.com/user-attachments/assets/3d8e671a-a299-4257-903a-d40844f9715f" />
+<img width="679" height="133" alt="image" src="https://github.com/user-attachments/assets/748fe198-69b3-4276-9e71-d6dbfd11cd96" />
 
-<img width="721" height="158" alt="image" src="https://github.com/user-attachments/assets/d29dd5a8-902e-45da-bf80-b2299f923d29" />
-
-<img width="762" height="151" alt="image" src="https://github.com/user-attachments/assets/a4005ae6-d62f-4896-bef0-88b8d8d65f2f" />
-
-<img width="690" height="142" alt="image" src="https://github.com/user-attachments/assets/5640837b-6e98-4f67-ad28-31a8aca247d5" />
+<img width="667" height="130" alt="image" src="https://github.com/user-attachments/assets/e0739540-2c2b-41d3-8074-c9c5469ea519" />
 
 
 ## NOR GATE:
 
-<img width="705" height="216" alt="image" src="https://github.com/user-attachments/assets/65b280a3-bfe0-40ca-a9d8-d26bd37f69a0" />
+<img width="665" height="134" alt="image" src="https://github.com/user-attachments/assets/bb46ead7-50a0-4f39-a48d-07e0f522c92f" />
 
-<img width="652" height="237" alt="image" src="https://github.com/user-attachments/assets/e474fa01-b88f-4df7-a6c4-3f10ddaed839" />
-
-<img width="716" height="217" alt="image" src="https://github.com/user-attachments/assets/a224e5b6-2713-4735-9a1b-33fcc1eb546b" />
-
-<img width="662" height="218" alt="image" src="https://github.com/user-attachments/assets/c8650ceb-21e0-4c37-96ed-af5dd383068c" />
+<img width="695" height="130" alt="image" src="https://github.com/user-attachments/assets/22673e19-4f20-4279-b2e9-1ed2d25a580a" />
 
 
 ## XOR GATE:
 
-<img width="722" height="246" alt="image" src="https://github.com/user-attachments/assets/6929a959-17d0-46d3-b9b3-c1cdd6bae933" />
-
-<img width="698" height="242" alt="image" src="https://github.com/user-attachments/assets/e69b217a-926b-4f56-8082-706e71fb489e" />
-
-<img width="716" height="251" alt="image" src="https://github.com/user-attachments/assets/b4fb9f90-b4a3-468b-8594-3fb3c8202757" />
-
-<img width="708" height="230" alt="image" src="https://github.com/user-attachments/assets/63cb1bf1-15d0-47d5-8437-34fffa169028" />
+<img width="683" height="246" alt="image" src="https://github.com/user-attachments/assets/69ab8f9e-0855-43a6-ab45-87e8fb9941ec" />
 
 
 ## MONITOR TABLE:
